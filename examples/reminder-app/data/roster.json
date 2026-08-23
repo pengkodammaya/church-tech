@@ -1,0 +1,12 @@
+{
+  "timezone": "Asia/Kuala_Lumpur",
+  "entries": [
+    { "date": "2026-08-24", "service": "Sunday Service", "time": "10:00", "role": "Usher",       "name": "Daniel Lim",   "email": "daniel@example.com" },
+    { "date": "2026-08-24", "service": "Sunday Service", "time": "10:00", "role": "Welcome Desk","name": "Grace Wong",   "email": "grace@example.com" },
+    { "date": "2026-08-24", "service": "Sunday Service", "time": "10:00", "role": "Kids Ministry", "name": "Samuel Raj",  "email": "samuel@example.com" },
+    { "date": "2026-08-28", "service": "Youth Night",    "time": "20:00", "role": "AV / Media",  "name": "Ashley Tan",   "email": "ashley@example.com" },
+    { "date": "2026-08-30", "service": "Sunday Service", "time": "10:00", "role": "Usher",       "name": "Marcus Lee",   "email": "marcus@example.com" },
+    { "date": "2026-08-30", "service": "Sunday Service", "time": "10:00", "role": "Refreshments","name": "Priya Nair",   "email": "priya@example.com" },
+    { "date": "2026-09-02", "service": "Prayer Meeting", "time": "20:00", "role": "AV / Media",  "name": "Ashley Tan",   "email": "ashley@example.com" }
+  ]
+}

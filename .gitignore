@@ -1,0 +1,14 @@
+# dependencies / builds
+node_modules/
+.next/
+
+# secrets
+.env
+.env*.local
+
+# office temp files
+~$*
+
+# os
+Thumbs.db
+.DS_Store
